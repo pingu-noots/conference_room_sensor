@@ -1,10 +1,10 @@
-# Human sensor for conference room
-You can be notified by slack about availability　of conference room!
+# Human sensor for conference room✊
+You can be notified by slack about availability　of conference room!✨
 ## enviroment
 Hard -> Raspberry Pi zero WH
 snesor -> HC-SR501
 ## How to use
-1. Get incoming webhook url slack
+1. Get incoming webhook url slack📩
 2. Write your API　on 
 > YOUR API
 3. run
